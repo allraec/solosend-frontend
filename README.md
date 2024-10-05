@@ -20,14 +20,14 @@ ng serve
 ```
 Open your browser and go to http://localhost:4200 to view the app.
 ## Features
-- User Registration: A simple registration form that allows users to create an account.
-- User Login: A login form to authenticate users.
-- Integration with Backend: The app communicates with the backend via REST APIs for user registration and login.
+- **User Registration**: A simple registration form that allows users to create an account.
+- **User Login**: A login form to authenticate users.
+- **Integration with Backend**: The app communicates with the backend via REST APIs for user registration and login.
 ## Tech Stack
-- Angular: Frontend framework
-- TypeScript: Primary language used
-- SCSS: Styling
-- REST API: Communicates with the backend.
+- **Angular**: Frontend framework
+- **TypeScript**: Primary language used
+- **SCSS**: Styling
+- **REST API**: Communicates with the backend.
 ## Contributing
 We welcome contributions! Please follow these steps to contribute to the project:
 ### 1. Create a new branch
